@@ -1,0 +1,14 @@
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\bin\Debug\AppEleicoes.exe.config
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\bin\Debug\AppEleicoes.exe
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\bin\Debug\AppEleicoes.pdb
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\obj\Debug\AppEleicoes.csproj.AssemblyReference.cache
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\obj\Debug\AppEleicoes.Models.Votacao.resources
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\obj\Debug\AppEleicoes.Sistema.resources
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\obj\Debug\AppEleicoes.Models.Cadastro.resources
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\obj\Debug\AppEleicoes.Properties.Resources.resources
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\obj\Debug\AppEleicoes.csproj.GenerateResource.cache
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\obj\Debug\AppEleicoes.csproj.CoreCompileInputs.cache
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\obj\Debug\AppEleicoes.exe
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\obj\Debug\AppEleicoes.pdb
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\obj\Debug\AppEleicoes.exe.config
+C:\Users\iopji\Desktop\AppEleicoes\AppEleicoes\obj\Debug\AppEleicoes.Models.Apuracao.resources
